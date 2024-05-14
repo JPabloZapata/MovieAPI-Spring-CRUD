@@ -1,0 +1,14 @@
+com\prueba\movies\FilmsApplication.class
+com\prueba\movies\service\impl\MovieServiceImpl.class
+com\prueba\movies\util\ErrorMessages.class
+com\prueba\movies\exception\MovieNotFoundException.class
+com\prueba\movies\controller\MovieController.class
+com\prueba\movies\service\iface\MovieService.class
+com\prueba\movies\config\ClearAuthorizationHeaderFilter.class
+com\prueba\movies\util\Utils.class
+com\prueba\movies\dto\movie\ResponseDeleteMovie.class
+com\prueba\movies\config\SecurityConfig.class
+com\prueba\movies\models\entity\Movie.class
+com\prueba\movies\dto\movie\ResponseCreateMovie.class
+com\prueba\movies\models\repository\MovieRepository.class
+com\prueba\movies\dto\base\BaseResponse.class
